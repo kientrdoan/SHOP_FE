@@ -1,1 +1,1 @@
-# SHOP_FE
+# Setup project
